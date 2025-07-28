@@ -1,25 +1,20 @@
-# Expense Tracker
+# 💼 Expense Tracker
 
-This is a simple Java Swing application for tracking personal expenses.  
-Users can add, update, and delete expense entries to keep a record of their spending.
-
+This is a simple **Java Swing** application designed to help you track your personal expenses easily.  
+You can add, update, and delete expense entries to maintain a clear record of your spending habits.
 ---
+## 👥 Team Members
 
-## Team Members
-
-- Nethmi Amasha
-- Sasuni Dilrukshi
-- Tharushi Bhagya 
-- Rashmi Rathnayake
-
+- Nethmi Amasha  
+- Sasuni Dilrukshi  
+- Tharushi Bhagya  
+- Rashmi Rathnayake  
 ---
+## 🚀 How to Run
 
-## How to run
-
-- Open the project in your favorite Java IDE (e.g., NetBeans, VS Code)  
-- Run the main class `ExpenseTracker.java` (or whichever class has the main method)  
-- Start adding your expenses!
-
+1. Open the project in your preferred Java IDE (e.g., NetBeans, VS Code).  
+2. Run the main class: `ExpenseTracker.java` (or the class containing the `main` method).  
+3. Start managing your expenses effortlessly!
 ---
-
-Thank you for checking out our project!
+Thank you for checking out our project!  
+Feel free to contribute, suggest improvements, or reach out to the team. 😊
