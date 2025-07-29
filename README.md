@@ -7,10 +7,10 @@ You can add, update, and delete expense entries to maintain a clear record of yo
 
 ## 👥 Team Members
 
-- Nethmi Amasha  
-- Sasuni Dilrukshi  
-- Tharushi Bhagya  
-- Rashmi Rathnayake  
+- Nethmi Amasha -https://github.com/NethmiAmasha2002
+- Sasuni Dilrukshi -https://github.com/Sasuni22
+- Tharushi Bhagya -https://github.com/tharushi621
+- Rashmi Rathnayake -https://github.com/rashdiwsl
 
 ---
 
